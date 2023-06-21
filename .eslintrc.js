@@ -23,5 +23,6 @@ module.exports = {
     project: 'tsconfig.json'
   },
   rules: {
+    '@typescript-eslint/restrict-plus-operands': 0
   }
 }
